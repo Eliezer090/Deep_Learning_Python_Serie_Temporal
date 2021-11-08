@@ -1,4 +1,4 @@
-# Deep_Learning_Python_Serie_Temporal
+# Deep Learning Python Serie Temporal utilizando redes neurais recorrentes
 Série temporal Preço da bolsa de valores
 <br>
 Nessa seção foi aprendido sobre as séries temporais, aprendido:<br>
